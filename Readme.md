@@ -5,7 +5,8 @@ and eat food to gain points. The game is over when the snake runs into a wall or
 
 <img src="./images/img1.png"> 
 <img src="./images/img2.png">
-## Getting Started
+
+# Getting Started
 
 To get started with this Snake game, you will need to have the following prerequisites installed:
 
